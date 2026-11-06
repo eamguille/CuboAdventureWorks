@@ -1,0 +1,4 @@
+
+# Quitamos el gitignore las carpetas de compilacion local obj y bin
+Cubo/CuboAdventureWorks/CuboAdventureWorks/bin
+Cubo/CuboAdventureWorks/CuboAdventureWorks/obj
